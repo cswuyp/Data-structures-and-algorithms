@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "归并排序", "归并排序\归并排序.vcxproj", "{AFCA3187-2CD4-42C0-8B83-8B037105E045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Debug|x64.ActiveCfg = Debug|x64
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Debug|x64.Build.0 = Debug|x64
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Debug|x86.Build.0 = Debug|Win32
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Release|x64.ActiveCfg = Release|x64
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Release|x64.Build.0 = Release|x64
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Release|x86.ActiveCfg = Release|Win32
+		{AFCA3187-2CD4-42C0-8B83-8B037105E045}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0B8433-62E8-4F13-AB3F-4AF850C840B2}
+	EndGlobalSection
+EndGlobal
